@@ -7,7 +7,7 @@
  - display data in a DataTable, Data Grid, and several charts
 
 ## Steps:
-Open the playground to the plotly example at: ""https://shinylive.io/py/examples/#plotly""
+Open the playground to the plotly example at: https://shinylive.io/py/examples/#plotly
 Add Only Extra Packages to requirements.txt
 Enhance the App
 Use the PyShiny website to add the following:
