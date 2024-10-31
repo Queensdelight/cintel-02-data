@@ -15,8 +15,8 @@ Use the PyShiny website to add the following:
  - Main content that uses
 
 with ui.layout_columns(): to display:
- - a DataTable (showing all data),
- - a Data Grid (showing all data),
+ - a DataTable (showing all data)
+ - a Data Grid (showing all data)
 
 
 
